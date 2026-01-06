@@ -21,7 +21,7 @@
   
     <platform name="android">
 
-       <hook type="after_prepare" src="remove_permissions.js"/> 
+       <hook type="after_prepare" src="allowheap.js"/> 
     </platform>
 
 </plugin>
